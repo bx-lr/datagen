@@ -38,9 +38,6 @@ def main(address, outfile):
     # more info: https://stackoverflow.com/questions/67393329/llvm-doesnt-generate-cfg
 
 
-
-
-
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('-a', '--address', type=str, required=True, help='address of godbolt (compiler explorer)\n\te.g. http://localhost:10240/')

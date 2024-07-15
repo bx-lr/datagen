@@ -37,8 +37,13 @@ py .\gen_data.py -a http://localhost:10240/ -o data.csv
 
 # Resources
 https://godbolt.org/
+
 https://github.com/compiler-explorer/compiler-explorer
+
 https://github.com/compiler-explorer/compiler-explorer/blob/main/docs/API.md
+
 https://github.com/compiler-explorer/infra
+
 https://clang.llvm.org/docs/ClangCommandLineReference.html
+
 https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
